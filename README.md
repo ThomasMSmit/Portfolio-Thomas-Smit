@@ -10,9 +10,9 @@
 * As an employer, asking a question about the info provided, makes it more easy to understand who the person is. 
 
 ### screenshots finished site
-* assets/images/Screenshot home.pdf       https://crimson-fish-gh9208co.ws-eu03.gitpod.io/files/download/?id=c8bdd8fb-2e13-494e-aa54-a8c850f54bd8
-* assets/images/Screenshot resume.pdf     https://crimson-fish-gh9208co.ws-eu03.gitpod.io/files/download/?id=e5e8a211-a562-4569-b213-802093fc0fc1
-* assets/images/Screenshot contact.pdf    https://crimson-fish-gh9208co.ws-eu03.gitpod.io/files/download/?id=8c914685-f630-45d4-8b0c-bbb3ff1f1516
+* assets/images/Screenshot-home.pdf       https://crimson-fish-gh9208co.ws-eu03.gitpod.io/files/download/?id=923fff12-6afd-4d34-9f01-6e41be2b2be7
+* assets/images/Screenshot-resume.pdf     https://crimson-fish-gh9208co.ws-eu03.gitpod.io/files/download/?id=22fcbc2b-2dba-4283-bc7f-5d07a66f9831
+* assets/images/Screenshot-contact.pdf    https://crimson-fish-gh9208co.ws-eu03.gitpod.io/files/download/?id=8d78bfb2-1647-47a1-a64d-7ef3bcfb4608
 
 
 ## Features 
