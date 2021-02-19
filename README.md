@@ -6,7 +6,7 @@
 
 * As an employer, i am looking to hire a new employee.
 * As an employer, i wan to download the provided cv to get to now more about the possible employee.
-* As an employer, having all the information i need together in a portfolio, is making the dession more easy.
+* As an employer, having all the information i need together in a portfolio, is making the desission more easy.
 * As an employer, asking a question about the info provided, makes it more easy to understand who the person is. 
 
 ### screenshots finished site
@@ -37,9 +37,26 @@
 
 ## Testing 
 
-* Made sure all cv download buttons work.
-* Made sure that the question submit section works as intended.
-* Made sure the different tabs all work as intended, with the right information.
+### CV download
+1. Go to the "Contact" page.
+2. try pressing the download CV button in the top right.
+3. Download of the provided CV will start.
+
+1. From all pages, press the download CV button in middle at the bottom of the page.
+2. Download of the provided CV will start.
+
+
+### Submit Question section
+1. Go to the "Contact" page.
+2. Try to submit an empty question form and an error message about the required fields appears.
+3. Try to submit a question from without a email adress, an error message about the required fields appears.
+4. try to submit a question form without a question, an error message about the required fields appears.
+
+### different tabs 
+* Made sure the different tabs all work as intended, and show the right information.
+
+### Code validator
+* Ran the (https://validator.w3.org/nu/) validator. After changes were made, no errors were found.
 
 
 
