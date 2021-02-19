@@ -9,7 +9,7 @@
 * As an employer, having all the information i need together in a portfolio, is making the desission more easy.
 * As an employer, asking a question about the info provided, makes it more easy to understand who the person is. 
 
-### screenshots finished site
+### Screenshots finished site
 * assets/images/Screenshot-home.pdf       https://crimson-fish-gh9208co.ws-eu03.gitpod.io/files/download/?id=923fff12-6afd-4d34-9f01-6e41be2b2be7
 * assets/images/Screenshot-resume.pdf     https://crimson-fish-gh9208co.ws-eu03.gitpod.io/files/download/?id=22fcbc2b-2dba-4283-bc7f-5d07a66f9831
 * assets/images/Screenshot-contact.pdf    https://crimson-fish-gh9208co.ws-eu03.gitpod.io/files/download/?id=8d78bfb2-1647-47a1-a64d-7ef3bcfb4608
@@ -52,11 +52,23 @@
 3. Try to submit a question from without a email adress, an error message about the required fields appears.
 4. try to submit a question form without a question, an error message about the required fields appears.
 
-### different tabs 
+### Different tabs 
 * Made sure the different tabs all work as intended, and show the right information.
 
 ### Code validator
 * Ran the (https://validator.w3.org/nu/) validator. After changes were made, no errors were found.
+
+
+
+## Deployment 
+
+### running project out of github pages
+* link: https://thomasmsmit.github.io/Portfolio-Thomas-Smit/ 
+
+### running project localy
+1. Type:( python3 -m http.server ) into the terminal and press enter.
+2. Go to the Open Ports tab.
+3. In port 8000, click Open browser to open the project in a different tab.
 
 
 
