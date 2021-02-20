@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
-/*--------------------------------------------Colors*/
+/*  --Colors--  */
 
 .bg-color-name-title {
     background-color: #676767;
@@ -55,7 +55,7 @@
     margin-bottom: 40px;
 }
 
-/* ----------------------------------------Special paddings/margins/text */
+/* --Special paddings/margins/text-- */
 
 h1,
 h2,
@@ -97,7 +97,7 @@ h4 {
 }
 
 
-/*--------------------------------------------Heading*/
+/*  --Heading--  */
 
 header {
     margin: 0;
@@ -183,14 +183,14 @@ header {
     letter-spacing: 2px;
 }
 
-/*--------------------------------------------Hover.css*/
+/*  --Hover.css--  */
 
 .hvr-sweep-to-bottom:before {
     background: rgba(0, 0, 0, 0.2);
     height: 120px;
 }
 
-/* ----------------------------------------Footer */
+/*  --Footer--  */
 
 footer {
     background-color: #525252;
@@ -242,7 +242,7 @@ footer {
     padding: 20px;
 }
 
-/* ----------------------------------------Three Reasons */
+/*  --Three Reasons--  */
 
 .three-reasons-icon {
     font-size: 26px;
@@ -253,7 +253,7 @@ footer {
     margin-bottom: 15px;
 }
 
-/* ----------------------------------------Personal Info */
+/*  --Personal Info--  */
 
 .personal-info-item {
     margin-bottom: 20px;
@@ -288,7 +288,7 @@ footer {
     width: 60%;
 }
 
-/* ----------------------------------------Skills */
+/*  --Skills--  */
 
 .progress {
     position: relative;
@@ -309,7 +309,7 @@ footer {
     margin: 40px 20px;
 }
 
-/* ----------------------------------------Work History */
+/*  --Work History--  */
 
 .history-heading {
     color: #fafafa;
@@ -357,9 +357,9 @@ footer {
     margin-bottom: 30px;
 }
 
-/* ----------------------------------------Contact Form */
+/*  --Question Form--  */
 
-.contact-heading {
+.question-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
     margin-top: 25px;
@@ -379,7 +379,7 @@ button[type="submit"] {
     background-color: #e84610;
 }
 
-/* ----------------------------------------Media Queries */
+/*  --Media Queries--  */
 
 @media(min-width: 992px) {
     .center-form {
