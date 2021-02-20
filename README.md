@@ -55,6 +55,9 @@
 ### Different tabs 
 * Made sure the different tabs all work as intended, and show the right information.
 
+### Social media icons
+* Made sure all icons direct the user to the right social media platform.
+
 ### Code validator
 * Ran the (https://validator.w3.org/nu/) validator. After changes were made, no errors were found.
 
@@ -63,7 +66,7 @@
 ## Deployment 
 
 ### running project out of github pages
-* link: https://thomasmsmit.github.io/Portfolio-Thomas-Smit/ 
+* [link:] (https://thomasmsmit.github.io/Portfolio-Thomas-Smit/)
 
 ### Running project localy
 1. Type:( python3 -m http.server ) into the terminal and press enter.
@@ -75,13 +78,19 @@
 ## CREDITS
 
 ### Content: 
-**ALL HTML AND CSS USED IN THIS PROJECT HAS BEEN COPIED STRAIGHT OUT OF THE MINI PROJECT: PUTTING IT ALL TOGETHER, IN THE USER SENTRIC FRONTEND DEVELOPMENT MODULE. ALL THE WRITTEN CONTENT IS MY OWN.**
+*ALL HTML AND CSS USED IN THIS PROJECT HAS BEEN COPIED STRAIGHT OUT OF THE MINI PROJECT: PUTTING IT ALL TOGETHER, IN THE USER SENTRIC FRONTEND DEVELOPMENT MODULE. ALL THE WRITTEN CONTENT IS MY OWN.*
 *I HAD NO TIME LEFT DUE TO COMPLICATIONS IN THE SCEDULE TO MAKE MY MILESTONE PROJECT PROPPERLY.*
+#### Other external recoures were
+* Bootstrap
+* fontawesome
+* Google.fonts
+* Google.com ( mainly for more info about how to use gitpod and github)
+
+### Media: 
+*The photo used in this project is my own. obtained from my own files.*
 
 
-### Media: The photo used in this project is my own. obtained from my files.
-
-
-### Acknowledgements: inspiration for this project comes from the mini project: putting it all together. As i used a the written code from that project to make this project.
+### Acknowledgements: 
+*inspiration for this project comes from the mini project: putting it all together. As i used all the written code from that project to make this project.*
 
 
