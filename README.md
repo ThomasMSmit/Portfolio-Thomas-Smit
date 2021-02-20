@@ -10,9 +10,9 @@
 * As an employer, asking a question about the info provided, makes it more easy to understand who the person is. 
 
 ### Screenshots finished site
-* assets/images/Screenshot-home.pdf       https://crimson-fish-gh9208co.ws-eu03.gitpod.io/files/download/?id=923fff12-6afd-4d34-9f01-6e41be2b2be7
-* assets/images/Screenshot-resume.pdf     https://crimson-fish-gh9208co.ws-eu03.gitpod.io/files/download/?id=22fcbc2b-2dba-4283-bc7f-5d07a66f9831
-* assets/images/Screenshot-contact.pdf    https://crimson-fish-gh9208co.ws-eu03.gitpod.io/files/download/?id=8d78bfb2-1647-47a1-a64d-7ef3bcfb4608
+* assets/images/Screenshot-home.pdf         https://github.com/ThomasMSmit/Portfolio-Thomas-Smit/blob/ff0f75b02cec5ecdd3dd5aa56f21012077bb6b7d/assets/images/Screenshot-home.pdf
+* assets/images/Screenshot-resume.pdf       https://github.com/ThomasMSmit/Portfolio-Thomas-Smit/blob/ff0f75b02cec5ecdd3dd5aa56f21012077bb6b7d/assets/images/Screenshot-resume.pdf
+* assets/images/Screenshot-contact.pdf      https://github.com/ThomasMSmit/Portfolio-Thomas-Smit/blob/ff0f75b02cec5ecdd3dd5aa56f21012077bb6b7d/assets/images/Screenshot-contact.pdf
 
 
 ## Features 
@@ -65,7 +65,7 @@
 ### running project out of github pages
 * link: https://thomasmsmit.github.io/Portfolio-Thomas-Smit/ 
 
-### running project localy
+### Running project localy
 1. Type:( python3 -m http.server ) into the terminal and press enter.
 2. Go to the Open Ports tab.
 3. In port 8000, click Open browser to open the project in a different tab.
@@ -79,7 +79,7 @@
 *I HAD NO TIME LEFT DUE TO COMPLICATIONS IN THE SCEDULE TO MAKE MY MILESTONE PROJECT PROPPERLY.*
 
 
-### media: The photo used in this project is my own. obtained from my files.
+### Media: The photo used in this project is my own. obtained from my files.
 
 
 ### Acknowledgements: inspiration for this project comes from the mini project: putting it all together. As i used a the written code from that project to make this project.
