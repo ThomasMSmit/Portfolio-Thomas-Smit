@@ -9,7 +9,7 @@
 * As an employer, having all the information i need together in a portfolio, is making the desission more easy.
 * As an employer, asking a question about the info provided, makes it more easy to understand who the person is. 
 
-### Screenshots finished site
+### Screenshots finished project
 * assets/images/Screenshot-home.pdf         https://github.com/ThomasMSmit/Portfolio-Thomas-Smit/blob/ff0f75b02cec5ecdd3dd5aa56f21012077bb6b7d/assets/images/Screenshot-home.pdf
 * assets/images/Screenshot-resume.pdf       https://github.com/ThomasMSmit/Portfolio-Thomas-Smit/blob/ff0f75b02cec5ecdd3dd5aa56f21012077bb6b7d/assets/images/Screenshot-resume.pdf
 * assets/images/Screenshot-contact.pdf      https://github.com/ThomasMSmit/Portfolio-Thomas-Smit/blob/ff0f75b02cec5ecdd3dd5aa56f21012077bb6b7d/assets/images/Screenshot-contact.pdf
