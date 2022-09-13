@@ -108,10 +108,10 @@ header {
 }
 
 .logo {
-    background: url("../images/P-pic.jpg");
+    background: url("assets/images/P-pic.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     min-height: 360px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
