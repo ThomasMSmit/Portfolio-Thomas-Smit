@@ -111,7 +111,7 @@ header {
     background: url("../images/P-pic.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: contain;
     min-height: 360px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
